@@ -20,7 +20,6 @@ I'm an **Embedded Systems Engineer & Trainer** with 5+ years of experience worki
 ![Embedded C](https://img.shields.io/badge/Embedded_C-green?style=flat)
 ![PIC Microcontroller](https://img.shields.io/badge/PIC-Microchip-red)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa-Rakwireless-blue)
 ![I2C](https://img.shields.io/badge/I2C-Protocol-purple)
 ![SPI](https://img.shields.io/badge/SPI-Protocol-yellow)
 ![CAN](https://img.shields.io/badge/CAN-Bus-blue)
