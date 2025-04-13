@@ -1,8 +1,13 @@
 # 👋 Hi, I'm Tushar Mali
 
-I'm an **🚀 Senior Embedded Engineer @PPP**. Crafting High-Performance Embedded Systems for Defence & Submarine Tech | Bare-Metal Programming 
+I'm an **🚀 Senior Embedded Engineer**. 
+- 🟢 Crafting High-Performance Embedded Systems for Defence & Submarine Tech 
+- 🔷 Bare-Metal Programming
+- 🟢 Beyond development, I am passionate about sharing knowledge. I used to exchange insights in embedded systems and related fields.
+- 🔷 I believe in the power of continuous learning and collaboration. Let's connect and explore opportunities to innovate and grow in the field of embedded systems.
 
 ---
+
 ## 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
