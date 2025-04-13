@@ -4,6 +4,9 @@ I'm an **🚀 Senior Embedded Engineer @PPP**. Crafting High-Performance Embedde
 
 ---
 ## 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-green?style=for-the-badge)
 
 - 🟢 **C**           
 - 🔷 **C++**       
@@ -12,6 +15,10 @@ I'm an **🚀 Senior Embedded Engineer @PPP**. Crafting High-Performance Embedde
 ---
 
 ## 🔧 Microcontrollers I Work With
+![PIC](https://img.shields.io/badge/PIC-Microchip-red?style=for-the-badge&logo=microchip)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![8051](https://img.shields.io/badge/8051-MCU-blue?style=for-the-badge)
 
 - 🟢 **PIC Series**: PIC18, PIC24, PIC32  
 - 🔵 **STM32 Series** (ARM Cortex-M)  
@@ -21,6 +28,12 @@ I'm an **🚀 Senior Embedded Engineer @PPP**. Crafting High-Performance Embedde
 ---
 
 ## 🛠️ IDEs & Development Environments
+
+![MPLAB X IDE](https://img.shields.io/badge/MPLAB%20X-IDE-red?style=for-the-badge&logo=microchip)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-blue?style=for-the-badge&logo=STMicroelectronics)
+![KEIL](https://img.shields.io/badge/Keil-uVision-green?style=for-the-badge)
+![Arduino IDE](https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 - 💡 **MPLAB X IDE**  
 - ⚙️ **STM32CubeIDE**  
@@ -44,21 +57,6 @@ I'm an **🚀 Senior Embedded Engineer @PPP**. Crafting High-Performance Embedde
 
 ---
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-green?style=flat)
-![PIC Microcontroller](https://img.shields.io/badge/PIC-Microchip-red)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![8051](https://img.shields.io/badge/8051-MCU-blue?style=for-the-badge)
-![I2C](https://img.shields.io/badge/I2C-Protocol-purple)
-![SPI](https://img.shields.io/badge/SPI-Protocol-yellow)
-![CAN](https://img.shields.io/badge/CAN-Bus-blue)
-![Modbus](https://img.shields.io/badge/MODBUS-Protocol-orange)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
 ## 📊 GitHub Stats
 
 ![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharmali017&show_icons=true&theme=radical)
@@ -69,8 +67,6 @@ I'm an **🚀 Senior Embedded Engineer @PPP**. Crafting High-Performance Embedde
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-mali-692230139/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tusharmali017)
-
----
 
 ---
 
