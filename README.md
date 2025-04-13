@@ -5,10 +5,10 @@ I'm an **🚀 Senior Embedded Engineer @PPP**. Crafting High-Performance Embedde
 ---
 ## 💻 Programming Languages
 
-- 🟢 **C**  
-- 🔷 **C++**  
-- ⚙️ **Embedded C**
-
+- 🟢 **C**    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- 🔷 **C++**  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ⚙️ **Embedded C**  ![Embedded C](https://img.shields.io/badge/Embedded%20C-green?style=for-the-badge)
+  
 ---
 
 ## 🔧 Microcontrollers I Work With
