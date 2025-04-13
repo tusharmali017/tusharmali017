@@ -3,8 +3,8 @@
 I'm an **🚀 Senior Embedded Engineer**. 
 - 🟢 Crafting High-Performance Embedded Systems for Defence & Submarine Tech 
 - 🔷 Bare-Metal Programming
-- 🟢 Beyond development, I am passionate about sharing knowledge. I used to exchange insights in embedded systems and related fields.
-- 🔷 I believe in the power of continuous learning and collaboration. Let's connect and explore opportunities to innovate and grow in the field of embedded systems.
+- 🔄 Beyond development, I am passionate about sharing knowledge. I used to exchange insights in embedded systems and related fields.
+- 🧠 I believe in the power of continuous learning and collaboration. Let's connect and explore opportunities to innovate and grow in the field of embedded systems.
 
 ---
 
