@@ -31,6 +31,11 @@ I'm an **🚀 Senior Embedded Engineer @PPP**. Crafting High-Performance Embedde
 ---
 
 ## 🧪 Simulation & Debugging Tools
+![Proteus](https://img.shields.io/badge/Proteus-Simulation-purple?style=for-the-badge)
+![Logic Analyzer](https://img.shields.io/badge/Logic%20Analyzer-Tool-yellow?style=for-the-badge)
+![CAN Bus Analyzer](https://img.shields.io/badge/CAN%20Bus-Analyzer-blue?style=for-the-badge)
+![Modbus Poll](https://img.shields.io/badge/Modbus-Poll-orange?style=for-the-badge)
+![Modbus Slave](https://img.shields.io/badge/Modbus-Slave-orange?style=for-the-badge)
 
 - 🔄 Proteus Design Suite  
 - 🔍 Logic Analyzer  
@@ -39,12 +44,12 @@ I'm an **🚀 Senior Embedded Engineer @PPP**. Crafting High-Performance Embedde
 
 ---
 
-## 🔧 Tech Stack & Tools
-
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-green?style=flat)
 ![PIC Microcontroller](https://img.shields.io/badge/PIC-Microchip-red)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![8051](https://img.shields.io/badge/8051-MCU-blue?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I2C-Protocol-purple)
 ![SPI](https://img.shields.io/badge/SPI-Protocol-yellow)
 ![CAN](https://img.shields.io/badge/CAN-Bus-blue)
