@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Tushar Mali
 
-> “The only way to do great work is to love what you do.” – *Steve Jobs*
-
 I'm an **Embedded Systems Engineer & Trainer** with 5+ years of experience working on microcontrollers, sensors, and communication protocols. Passionate about **hardware-software integration**, real-time systems, and teaching the next generation of embedded enthusiasts.
 
 ---
