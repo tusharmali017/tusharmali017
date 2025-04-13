@@ -5,9 +5,9 @@ I'm an **🚀 Senior Embedded Engineer @PPP**. Crafting High-Performance Embedde
 ---
 ## 💻 Programming Languages
 
-- 🟢 C  
-- 🔷 C++  
-- ⚙️ Embedded C  
+- 🟢 **C**  
+- 🔷 **C++**  
+- ⚙️ **Embedded C**
 
 ---
 
@@ -22,11 +22,11 @@ I'm an **🚀 Senior Embedded Engineer @PPP**. Crafting High-Performance Embedde
 
 ## 🛠️ IDEs & Development Environments
 
-- 💡 MPLAB X IDE  
-- ⚙️ STM32CubeIDE  
-- 🧠 KEIL uVision  
-- 🛠️ Arduino IDE  
-- ✍️ VS Code (with PlatformIO, etc.)
+- 💡 **MPLAB X IDE**  
+- ⚙️ **STM32CubeIDE**  
+- 🧠 **KEIL uVision**  
+- 🛠️ **Arduino IDE**  
+- ✍️ **VS Code (with PlatformIO, etc.)**
 
 ---
 
