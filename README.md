@@ -2,10 +2,33 @@
 
 I'm an **🚀 Senior Embedded Engineer @PPP**. Crafting High-Performance Embedded Systems for Defence & Submarine Tech | Bare-Metal Programming 
 🔹 Mastering C, C++, Embedded C 
-🔹 Skilled in MODBUS, I2C, SPI, CAN, PIC MCU, STM32 MCU
+
+---
+## 🔧 Microcontrollers I Work With
+
+- 🟢 **PIC Series**: PIC18, PIC24, PIC32
+- 🔵 **STM32 Series** (ARM Cortex-M)
+- 🔸 **Arduino** (ATmega328, ESP32, etc.)
+- ⚙️ **8051** Microcontrollers
 
 ---
 
+## 💻 IDEs & Development Tools
+
+- 🧠 **MPLAB X IDE** (Microchip)
+- 🛠️ **STM32CubeIDE** (STMicroelectronics)
+- ⚙️ **KEIL uVision** (8051, ARM)
+- 🌐 **Arduino IDE**
+- 🔤 **VS Code** (PlatformIO, etc.)
+
+---
+
+## 🧪 Simulation & Debugging Tools
+
+- 🔄 **Proteus Design Suite** (Circuit simulation & PCB design)
+- 🔍 **Logic Analyzer**
+- 🚌 **CAN Bus Analyzer**
+- ⚙️ **Modbus Poll & Modbus Slave** (for Modbus simulation & testing)
 ---
 
 ## 🔧 Tech Stack & Tools
