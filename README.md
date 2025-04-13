@@ -1,16 +1,10 @@
 # 👋 Hi, I'm Tushar Mali
 
-I'm an **Embedded Systems Engineer & Trainer** with 5+ years of experience working on microcontrollers, sensors, and communication protocols. Passionate about **hardware-software integration**, real-time systems, and teaching the next generation of embedded enthusiasts.
+I'm an **🚀 Senior Embedded Engineer @PPP**. Crafting High-Performance Embedded Systems for Defence & Submarine Tech | Bare-Metal Programming 
+🔹 Mastering C, C++, Embedded C 
+🔹 Skilled in MODBUS, I2C, SPI, CAN, PIC MCU, STM32 MCU
 
 ---
-
-## 👨‍💻 About Me
-
-- 🛠️ Working on **Embedded Systems**, **IoT**, and **AI/ML for Automotive ECUs**
-- 🧠 Always learning something new — currently exploring **predictive maintenance** in **Electric Vehicle BMS**
-- 📚 Teaching **C programming**, **microcontroller interfacing**, and **embedded protocols**
-- 🧪 Experimenting with hardware like **PIC**, **STM32**, **RAK LoRa modules**, **pressure sensors**, and more
-- 🌱 Sharing job opportunities and embedded content via my **Telegram group**
 
 ---
 
@@ -41,10 +35,6 @@ I'm an **Embedded Systems Engineer & Trainer** with 5+ years of experience worki
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tusharmali017)
 
 ---
-
-## 🧠 Fun Fact
-
-> I love solving real-world problems using low-level code — from **vehicle tilt alarms** to **sensor-based automation**, I’ve built it all 👨‍🔧
 
 ---
 
