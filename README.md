@@ -35,11 +35,11 @@ I'm an **🚀 Senior Embedded Engineer @PPP**. Crafting High-Performance Embedde
 ![Arduino IDE](https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- 💡 **MPLAB X IDE**  
-- ⚙️ **STM32CubeIDE**  
-- 🧠 **KEIL uVision**  
+- 💡 **MPLAB X IDE**  (Microchip)
+- ⚙️ **STM32CubeIDE** (ST Microelectronics) 
+- 🧠 **KEIL uVision** (8051, ARM) 
 - 🛠️ **Arduino IDE**  
-- ✍️ **VS Code (with PlatformIO, etc.)**
+- ✍️ **VS Code** (with PlatformIO, etc.)
 
 ---
 
@@ -50,10 +50,10 @@ I'm an **🚀 Senior Embedded Engineer @PPP**. Crafting High-Performance Embedde
 ![Modbus Poll](https://img.shields.io/badge/Modbus-Poll-orange?style=for-the-badge)
 ![Modbus Slave](https://img.shields.io/badge/Modbus-Slave-orange?style=for-the-badge)
 
-- 🔄 Proteus Design Suite  
+- 🔄 Proteus Design Suite (Circuit simulation & PCB design)  
 - 🔍 Logic Analyzer  
 - 🚌 CAN Bus Analyzer  
-- ⚙️ Modbus Poll & Modbus Slave
+- ⚙️ Modbus Poll & Modbus Slave (for Modbus simulation & testing)
 
 ---
 
