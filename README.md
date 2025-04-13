@@ -42,7 +42,6 @@ I'm an **Embedded Systems Engineer & Trainer** with 5+ years of experience worki
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-mali-692230139/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tusharmali017)
-[![UrbanPro](https://img.shields.io/badge/UrbanPro-Embedded%20Trainer-blueviolet?style=for-the-badge)](https://www.urbanpro.com/pune/tushar-mali-embedded-system-programming-trainer-having-5-years-of-experience)
 
 ---
 
