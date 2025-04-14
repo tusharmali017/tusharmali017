@@ -60,6 +60,9 @@ I specialize in bare-metal programming by directly working with microcontroller 
 ---
 
 ## 🔧 Platforms and tool I Work With
+
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin-right:20px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50" style="margin-right:20px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="50" height="50" style="margin-right:20px;" /> </p>
+
 - 🟣 **GitHub** (Source control, project collaboration, and GitHub Actions for automation)
 - 🔵 **Microsoft Azure** (Continuous Integration and Deployment with GitHub Actions and Azure Pipelines)
   
