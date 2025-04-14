@@ -1,10 +1,7 @@
 # 👋 Hi, I'm Tushar Mali
 
 I'm an **🚀 Senior Embedded Engineer**. 
-- 🟢 Crafting High-Performance Embedded Systems for Defence & Submarine Tech 
-- 🔷 Bare-Metal Programming
-- 🔄 Beyond development, I am passionate about sharing knowledge. I used to exchange insights in embedded systems and related fields.
-- 🧠 I believe in the power of continuous learning and collaboration. Let's connect and explore opportunities to innovate and grow in the field of embedded systems.
+I specialize in bare-metal programming by directly working with microcontroller datasheets and reference manuals. With hands-on experience in low-level hardware interaction, I write efficient, resource-optimized code without relying on high-level libraries or auto-generated code. Passionate about building reliable embedded solutions from the ground up.
 
 ---
 
