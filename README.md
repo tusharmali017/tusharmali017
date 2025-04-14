@@ -52,11 +52,17 @@ I specialize in bare-metal programming by directly working with microcontroller 
 ![Modbus Poll](https://img.shields.io/badge/Modbus-Poll-orange?style=for-the-badge)
 ![Modbus Slave](https://img.shields.io/badge/Modbus-Slave-orange?style=for-the-badge)
 
-- 🔄 Proteus Design Suite (Circuit simulation & PCB design)  
-- 🔍 Logic Analyzer  
-- 🚌 CAN Bus Analyzer  
-- ⚙️ Modbus Poll & Modbus Slave (for Modbus simulation & testing)
+- 🔄 **Proteus Design Suite** (Circuit simulation & PCB design)  
+- 🔍 **Logic Analyzer**  
+- 🚌 **CAN Bus Analyzer**  
+- ⚙️ **Modbus Poll & Modbus Slave** (for Modbus simulation & testing)
 
+---
+
+## 🔧 Platforms and tool I Work With
+- 🟣 **GitHub** (Source control, project collaboration, and GitHub Actions for automation)
+- 🔵 **Microsoft Azure** (Continuous Integration and Deployment with GitHub Actions and Azure Pipelines)
+  
 ---
 
 ## 📊 GitHub Stats
