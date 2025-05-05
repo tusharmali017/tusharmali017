@@ -76,10 +76,10 @@ I specialize in bare-metal programming by directly working with microcontroller 
 - **Tech**: PIC32, Ethernet Protocol using MODBUS TCP/IP, MODBUS RTU
   
 - **Key Features**:
-🟣 UART-to-TCP/IP conversion with MODBUS protocol support
-🟣 MODBUS RTU data parsing and validation
-🟣 MODBUS TCP/IP frame construction and transmission over Ethernet
-🟣 Real-time data relay to GUI for monitoring and control
+- 🔸 UART-to-TCP/IP conversion with MODBUS protocol support
+- 🔸 MODBUS RTU data parsing and validation
+- 🔸 MODBUS TCP/IP frame construction and transmission over Ethernet
+- 🔸 Real-time data relay to GUI for monitoring and control
 
 
 
@@ -89,10 +89,10 @@ I specialize in bare-metal programming by directly working with microcontroller 
 - **Tech**: PIC24, TLV320AIC3204 audio codec, I2C (control interface) + I2S (audio interface)
   
 - **Key Features**:
-🟣 Codec configuration via I2C for sampling rate, volume, input/output routing, and power settings
-🟣 Real-time stereo audio data transmission using I2S interface
-🟣 Support for both ADC (audio input) and DAC (audio output) functionality
-🟣 Efficient data buffering and interrupt-driven audio stream handling
+- 🔸 Codec configuration via I2C for sampling rate, volume, input/output routing, and power settings
+- 🔸 Real-time stereo audio data transmission using I2S interface
+- 🔸 Support for both ADC (audio input) and DAC (audio output) functionality
+- 🔸 Efficient data buffering and interrupt-driven audio stream handling
 
 ---
 
