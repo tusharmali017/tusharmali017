@@ -72,17 +72,26 @@ I specialize in bare-metal programming by directly working with microcontroller 
 
 ### 🚗 Ethernet Card
 - **Description**: Developed a communication gateway that bridges a serial MODBUS-enabled embedded system with a remote GUI using Ethernet. The Ethernet card receives data from the embedded system via UART using the MODBUS RTU protocol, then repackages and transmits the collected data over the network to a GUI using MODBUS TCP/IP. This architecture enables legacy embedded systems with UART-only communication to interface with modern TCP/IP-based applications.
+  
 - **Tech**: PIC32, Ethernet Protocol using MODBUS TCP/IP, MODBUS RTU
+  
 - **Key Features**:
       - UART-to-TCP/IP conversion with MODBUS protocol support
       - MODBUS RTU data parsing and validation
       - MODBUS TCP/IP frame construction and transmission over Ethernet
       - Real-time data relay to GUI for monitoring and control
 
-### 🎛️ Audio Codec Interfacing
-- Description: Interfacing TLV320AIC3204 with PIC24F using I2C + I2S
-- Tech: PIC24, audio signal processing
-- Outcome: Stereo audio playback and recording
+
+### 🎛️ TLV320AIC3204 Audio Codec Interfacing with PIC24
+- **Description**: Engineered an embedded audio processing system by interfacing the TLV320AIC3204 ultra-low power stereo audio codec with a PIC24F microcontroller. The system utilizes I2C for codec configuration and I2S for real-time audio data transmission, enabling high-quality stereo audio playback and recording. This setup is ideal for applications like voice command systems, audio streaming devices, and digital audio processing units.
+  
+- **Tech**: PIC24, TLV320AIC3204 audio codec, I2C (control interface) + I2S (audio interface)
+  
+- **Key Features**:
+      - Codec configuration via I2C for sampling rate, volume, input/output routing, and power settings
+      - Real-time stereo audio data transmission using I2S interface
+      - Support for both ADC (audio input) and DAC (audio output) functionality
+      - Efficient data buffering and interrupt-driven audio stream handling
 
 ---
 
