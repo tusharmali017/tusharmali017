@@ -68,6 +68,24 @@ I specialize in bare-metal programming by directly working with microcontroller 
   
 ---
 
+## 🔧 Projects I've Worked On
+
+### 🚗 Ethernet Card
+- **Description**: Developed a communication gateway that bridges a serial MODBUS-enabled embedded system with a remote GUI using Ethernet. The Ethernet card receives data from the embedded system via UART using the MODBUS RTU protocol, then repackages and transmits the collected data over the network to a GUI using MODBUS TCP/IP. This architecture enables legacy embedded systems with UART-only communication to interface with modern TCP/IP-based applications.
+- **Tech**: PIC32, Ethernet Protocol using MODBUS TCP/IP, MODBUS RTU
+- **Key Features**:
+      - UART-to-TCP/IP conversion with MODBUS protocol support
+      - MODBUS RTU data parsing and validation
+      - MODBUS TCP/IP frame construction and transmission over Ethernet
+      - Real-time data relay to GUI for monitoring and control
+
+### 🎛️ Audio Codec Interfacing
+- Description: Interfacing TLV320AIC3204 with PIC24F using I2C + I2S
+- Tech: PIC24, audio signal processing
+- Outcome: Stereo audio playback and recording
+
+---
+
 ## 📊 GitHub Stats
 
 ![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharmali017&show_icons=true&theme=radical)
