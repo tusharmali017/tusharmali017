@@ -82,7 +82,6 @@ I specialize in bare-metal programming by directly working with microcontroller 
 - 🔸 Real-time data relay to GUI for monitoring and control
 
 
-
 ### 🎛️ TLV320AIC3204 Audio Codec Interfacing with PIC24
 - **Description**: Engineered an embedded audio processing system by interfacing the TLV320AIC3204 ultra-low power stereo audio codec with a PIC24F microcontroller. The system utilizes I2C for codec configuration and I2S for real-time audio data transmission, enabling high-quality stereo audio playback and recording. This setup is ideal for applications like voice command systems, audio streaming devices, and digital audio processing units.
   
