@@ -95,6 +95,18 @@ I specialize in bare-metal programming by directly working with microcontroller 
 
 ---
 
+## 📜 Certifications
+
+- [Leadership: Practical Leadership Skills](https://www.udemy.com/certificate/UC-04a2fd29-ec1c-4463-8c9b-2ab69faaeeeb/)
+- [Microcontroller Embedded C Programming](https://www.udemy.com/certificate/UC-f07fb1c8-35b9-4719-8743-88872d371155/)
+- [C Programming Callbacks](https://verify.skilljar.com/c/d25sqt4x79w6)
+- [CAN and CAN FD Protocol and Physical Layer Basics](https://verify.skilljar.com/c/2oczr9aus9x6)
+- [Advanced Embedded C Tips, Tricks, and Cautions](https://verify.skilljar.com/c/ycwdfwxreocj)
+- [Debugging Techniques for Serial Communications (I2C/SPI/UART)](https://verify.skilljar.com/c/2ozwegopcvpq)
+- [MPLAB® Harmony v3 Fundamentals](https://verify.skilljar.com/c/n4zq2x9ubr34)
+  
+---
+
 ## 📊 GitHub Stats
 
 ![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharmali017&show_icons=true&theme=radical)
