@@ -75,7 +75,7 @@ I specialize in bare-metal programming by directly working with microcontroller 
 ## 🔧 Projects I've Worked On
 
 ### 🚗 TiltGuard-MSP430
-- **Description**: Developed a communication gateway that bridges a serial MODBUS-enabled embedded system with a remote GUI using Ethernet. The Ethernet card receives data from the embedded system via UART using the MODBUS RTU protocol, then repackages and transmits the collected data over the network to a GUI using MODBUS TCP/IP. This architecture enables legacy embedded systems with UART-only communication to interface with modern TCP/IP-based applicationTiltGuard-MSP430 is a low-power tilt detection system using the MSP430G2553 microcontroller and the ADXL362 ultralow power accelerometer. This project detects tilt or orientation change and can be used in tamper detection, anti-theft alarms, or motion-based control systems. The MSP430G2553 communicates with the ADXL362 via SPI and uses GPIO interrupts to detect motion. Designed for minimal power consumption and suitable for battery-powered applications.
+- **Description**: TiltGuard-MSP430 is a low-power tilt detection system using the MSP430G2553 microcontroller and the ADXL362 ultralow power accelerometer. This project detects tilt or orientation change and can be used in tamper detection, anti-theft alarms, or motion-based control systems. The MSP430G2553 communicates with the ADXL362 via SPI and uses GPIO interrupts to detect motion. Designed for minimal power consumption and suitable for battery-powered applications.
   
 - **Tech**: MSP430, SPI Protocol, ADXL362 Accelerometer
   
