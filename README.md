@@ -80,11 +80,11 @@ I specialize in bare-metal programming by directly working with microcontroller 
 - **Tech**: MSP430, SPI Protocol, ADXL362 Accelerometer
   
 - **Key Features**:  
- 🔸 SPI communication with ADXL362
- 🔸 Ultralow power operation 
- 🔸 Tilt detection with configurable threshold
- 🔸 Easily customizable for different microcontrollers or platforms
- 🔸 Code written using Code Composer Studio (CCS)
+ 🔸 SPI communication with ADXL362 
+ 🔸 Ultralow power operation  
+ 🔸 Tilt detection with configurable threshold 
+ 🔸 Easily customizable for different microcontrollers or platforms 
+ 🔸 Code written using Code Composer Studio (CCS) 
 
 
 ### 🚗 Ethernet Card
