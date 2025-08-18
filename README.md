@@ -17,11 +17,13 @@ I specialize in bare-metal programming by directly working with microcontroller 
 ---
 
 ## 🔧 Microcontrollers I Work With
+![MSP430](https://img.shields.io/badge/MSP430-TI-990000?style=for-the-badge&logo=TexasInstruments&logoColor=white)
 ![PIC](https://img.shields.io/badge/PIC-Microchip-red?style=for-the-badge&logo=microchip)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![8051](https://img.shields.io/badge/8051-MCU-blue?style=for-the-badge)
 
+- 🔴 **MSP430 Series** (Ultra-low-power TI MCU)
 - 🟢 **PIC Series**: PIC18, PIC24, PIC32  
 - 🔵 **STM32 Series** (ARM Cortex-M)  
 - 🔸 **Arduino** (ATmega328, ESP32, etc.)  
@@ -36,12 +38,14 @@ I specialize in bare-metal programming by directly working with microcontroller 
 ![KEIL](https://img.shields.io/badge/Keil-uVision-green?style=for-the-badge)
 ![Arduino IDE](https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Code Composer Studio](https://img.shields.io/badge/Code%20Composer%20Studio-TI-990000?style=for-the-badge&logo=TexasInstruments&logoColor=white)
 
 - 💡 **MPLAB X IDE**  (Microchip)
 - ⚙️ **STM32CubeIDE** (ST Microelectronics) 
 - 🧠 **KEIL uVision** (8051, ARM) 
 - 🛠️ **Arduino IDE**  
 - ✍️ **VS Code** (with PlatformIO, etc.)
+- 🔧 **Code Composer Studio** (TI MSP430, C2000, etc.)
 
 ---
 
@@ -69,6 +73,19 @@ I specialize in bare-metal programming by directly working with microcontroller 
 ---
 
 ## 🔧 Projects I've Worked On
+
+### 🚗 TiltGuard-MSP430
+- **Description**: Developed a communication gateway that bridges a serial MODBUS-enabled embedded system with a remote GUI using Ethernet. The Ethernet card receives data from the embedded system via UART using the MODBUS RTU protocol, then repackages and transmits the collected data over the network to a GUI using MODBUS TCP/IP. This architecture enables legacy embedded systems with UART-only communication to interface with modern TCP/IP-based applicationTiltGuard-MSP430 is a low-power tilt detection system using the MSP430G2553 microcontroller and the ADXL362 ultralow power accelerometer. This project detects tilt or orientation change and can be used in tamper detection, anti-theft alarms, or motion-based control systems. The MSP430G2553 communicates with the ADXL362 via SPI and uses GPIO interrupts to detect motion. Designed for minimal power consumption and suitable for battery-powered applications.
+  
+- **Tech**: MSP430, SPI Protocol, ADXL362 Accelerometer
+  
+- **Key Features**:  
+ 🔸 SPI communication with ADXL362
+ 🔸 Ultralow power operation 
+ 🔸 Tilt detection with configurable threshold
+ 🔸 Easily customizable for different microcontrollers or platforms
+ 🔸 Code written using Code Composer Studio (CCS)
+
 
 ### 🚗 Ethernet Card
 - **Description**: Developed a communication gateway that bridges a serial MODBUS-enabled embedded system with a remote GUI using Ethernet. The Ethernet card receives data from the embedded system via UART using the MODBUS RTU protocol, then repackages and transmits the collected data over the network to a GUI using MODBUS TCP/IP. This architecture enables legacy embedded systems with UART-only communication to interface with modern TCP/IP-based applications.
