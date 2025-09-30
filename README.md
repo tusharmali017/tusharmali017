@@ -42,7 +42,7 @@ I specialize in bare-metal programming by directly working with microcontroller 
 - 🔵 **MODBUS (RTU / TCP)** – Industrial automation & device communication  
 - 🟢 **I²C (Inter-Integrated Circuit)** – Sensor & peripheral interfacing  
 - 🟣 **SPI (Serial Peripheral Interface)** – High-speed peripheral communication  
-- 🟠 **CAN Bus** – Automotive & industrial fieldbus communication  
+- 🟠 **CAN(Controller Area Network)** – Automotive & industrial fieldbus communication  
 - 🌐 **Ethernet** – Networking & IoT communication  
 - 🎵 **I²S (Inter-IC Sound)** – Digital audio data transfer 
 
