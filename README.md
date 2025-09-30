@@ -31,6 +31,23 @@ I specialize in bare-metal programming by directly working with microcontroller 
 
 ---
 
+## 🌐 Communication Protocols I Work With
+![MODBUS](https://img.shields.io/badge/MODBUS-005F9E?style=for-the-badge&logo=modbus&logoColor=white)
+![I2C](https://img.shields.io/badge/I²C-336791?style=for-the-badge&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-8E44AD?style=for-the-badge&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN-Bus-FF7F0E?style=for-the-badge&logoColor=white)
+![Ethernet](https://img.shields.io/badge/Ethernet-005C99?style=for-the-badge&logo=ethernet&logoColor=white)
+![I2S](https://img.shields.io/badge/I²S-A83279?style=for-the-badge&logoColor=white)
+
+- 🔵 **MODBUS (RTU / TCP)** – Industrial automation & device communication  
+- 🟢 **I²C (Inter-Integrated Circuit)** – Sensor & peripheral interfacing  
+- 🟣 **SPI (Serial Peripheral Interface)** – High-speed peripheral communication  
+- 🟠 **CAN Bus** – Automotive & industrial fieldbus communication  
+- 🌐 **Ethernet** – Networking & IoT communication  
+- 🎵 **I²S (Inter-IC Sound)** – Digital audio data transfer 
+
+---
+
 ## 🛠️ IDEs & Development Environments
 
 ![MPLAB X IDE](https://img.shields.io/badge/MPLAB%20X-IDE-red?style=for-the-badge&logo=microchip)
@@ -121,6 +138,7 @@ I specialize in bare-metal programming by directly working with microcontroller 
 - [Advanced Embedded C Tips, Tricks, and Cautions](https://verify.skilljar.com/c/ycwdfwxreocj)
 - [Debugging Techniques for Serial Communications (I2C/SPI/UART)](https://verify.skilljar.com/c/2ozwegopcvpq)
 - [MPLAB® Harmony v3 Fundamentals](https://verify.skilljar.com/c/n4zq2x9ubr34)
+- [Building your Linux Development System](http://verify.skilljar.com/c/n2s6r6dq8jhx)
   
 ---
 
