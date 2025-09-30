@@ -35,7 +35,7 @@ I specialize in bare-metal programming by directly working with microcontroller 
 ![MODBUS](https://img.shields.io/badge/MODBUS-005F9E?style=for-the-badge&logo=modbus&logoColor=white)
 ![I2C](https://img.shields.io/badge/I²C-336791?style=for-the-badge&logoColor=white)
 ![SPI](https://img.shields.io/badge/SPI-8E44AD?style=for-the-badge&logoColor=white)
-![CAN](https://img.shields.io/badge/CAN-Bus-FF7F0E?style=for-the-badge&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN-FF7F0E?style=for-the-badge&logoColor=white)
 ![Ethernet](https://img.shields.io/badge/Ethernet-005C99?style=for-the-badge&logo=ethernet&logoColor=white)
 ![I2S](https://img.shields.io/badge/I²S-A83279?style=for-the-badge&logoColor=white)
 
