@@ -91,10 +91,24 @@ I specialize in bare-metal programming by directly working with microcontroller 
 
 ## 🔧 Projects I've Worked On
 
+### 🚗 Seismic Data Loger
+- **Description**: Seismic Data Logger is a low-power vibration monitoring system using the PIC24F Curiosity Developement Board and the ADXL355 ultralow noise accelerometer. This project captures high-resolution vibration data across three axes and can be used in predictive maintenance, industrial equipment health monitoring, or structural vibration analysis. The PIC24FJ128GA204 communicates with the ADXL355 via SPI and uses GPIO interrupts to detect vibration threshold breaches. Designed for accurate, low-noise measurement and suitable for both battery-powered and industrial applications.
+  
+- **Tech**: PIC24FJ128GA204, SPI Protocol, ADXL355 Accelerometer, XC16 Compiler, MPLAB X IDE
+  
+- **Key Features**:  
+ 🔸 SPI communication with ADXL355 at configurable data rates  
+ 🔸 Ultralow power operation  
+ 🔸 Ultralow noise floor (20-bit resolution) for precise vibration capture  
+ 🔸 Three-axis acceleration data acquisition (X, Y, Z)  
+ 🔸 Interrupt-driven architecture using ADXL355 DRDY and threshold pins
+ 🔸 Code written using MPLAB X IDE with XC16 Compiler
+
+
 ### 🚗 TiltGuard-MSP430
 - **Description**: TiltGuard-MSP430 is a low-power tilt detection system using the MSP430G2553 microcontroller and the ADXL362 ultralow power accelerometer. This project detects tilt or orientation change and can be used in tamper detection, anti-theft alarms, or motion-based control systems. The MSP430G2553 communicates with the ADXL362 via SPI and uses GPIO interrupts to detect motion. Designed for minimal power consumption and suitable for battery-powered applications.
   
-- **Tech**: MSP430, SPI Protocol, ADXL362 Accelerometer
+- **Tech**: MSP430, SPI Protocol, ADXL362 Accelerometer, Code Composer Studio
   
 - **Key Features**:  
  🔸 SPI communication with ADXL362  
