@@ -31,6 +31,24 @@ I specialize in bare-metal programming by directly working with microcontroller 
 
 ---
 
+## 🛠️ Dev Boards I Work With
+![MSP430 LaunchPad](https://img.shields.io/badge/MSP430_LaunchPad-TI-990000?style=for-the-badge&logo=TexasInstruments&logoColor=white)
+![PIC24F Curiosity](https://img.shields.io/badge/PIC24F_Curiosity-Microchip-red?style=for-the-badge&logo=microchip)
+![PIC32MX Curiosity](https://img.shields.io/badge/PIC32MX_Curiosity-Microchip-red?style=for-the-badge&logo=microchip)
+![PIC32 Ethernet SK](https://img.shields.io/badge/PIC32_Ethernet_SK-Microchip-red?style=for-the-badge&logo=microchip)
+![STM32 Discovery](https://img.shields.io/badge/STM32_Discovery-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
+![PIC16/32 Dev Board](https://img.shields.io/badge/PIC16--32_Dev_Board-Microchip-red?style=for-the-badge&logo=microchip)
+
+- 🔴 **LaunchPad MSP430G2553** — TI ultra-low-power dev board
+- 🟢 **PIC24F Curiosity Development Board** — Based on PIC24FJ128GA204 eXtreme Low Power
+(XLP) microcontroller
+- 🟢 **PIC32MX Curiosity Development Board** — Microchip PIC32 prototyping
+- 🟢 **PIC32 Ethernet Starter Kit** — PIC32 with onboard Ethernet
+- 🟢 **PIC16/32 Development Board** — Used PIC24FJ1024GB610 microcontroller
+- 🔵 **STM32 Discovery Board** — STM32 ARM Cortex-M evaluation
+
+---
+
 ## 🌐 Communication Protocols I Work With
 ![MODBUS](https://img.shields.io/badge/MODBUS-005F9E?style=for-the-badge&logo=modbus&logoColor=white)
 ![I2C](https://img.shields.io/badge/I²C-336791?style=for-the-badge&logoColor=white)
